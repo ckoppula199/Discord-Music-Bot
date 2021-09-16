@@ -4,6 +4,8 @@ Recently at the time of writing Youtube has forced popular music bots such as th
   
 This repository contains code for my own music discord bot that can be privately hosted and used to play songs and audio from youtube on a discord server.
 
+For this code to work you must have FFMPEG installed and added to your PATH on the machine you intend to run this code from.
+
 ## Commands
 Below are the commands available for the discord music bot.
 
